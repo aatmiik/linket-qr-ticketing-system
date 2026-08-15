@@ -52,6 +52,10 @@ Each ticket contained a unique QR code linked to the verification workflow, enab
 
 ## Project Showcase
 
+### Ticket Template
+
+![Ticket Template](Ticket%20Templet.png)
+
 ### Generated QR Ticket
 
 ![Generated Ticket](Generated%20Ticket.png)
@@ -59,10 +63,6 @@ Each ticket contained a unique QR code linked to the verification workflow, enab
 ### QR Verification
 
 ![Verification Interface](Verification%20Server%20Screen.png)
-
-### Ticket Template
-
-![Ticket Template](Ticket%20Templet.png)
 
 ## Project Contribution
 
