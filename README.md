@@ -47,10 +47,6 @@ The system was successfully used to generate **90 personalized QR-enabled event 
 
 The generated tickets contain unique QR codes that direct users to a verification interface where ticket validity and scan status can be checked.
 
-## Project Context
-
-Developed as part of the **Programming for Scientific Computing (PSC)** course at **Institute of Technology, Nirma University**.
-
 ## Screenshots
 
 Screenshots demonstrating the generated ticket and verification interface will be added here.
