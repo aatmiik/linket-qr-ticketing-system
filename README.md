@@ -59,6 +59,15 @@ Each ticket contained a unique QR code connected to the verification workflow, e
 <table>
 <tr>
 <td align="center">
+<strong>Ticket Template</strong><br><br>
+<img src="Ticket%20Templet.png" width="180">
+</td>
+
+<td align="center" valign="middle">
+<h2>→</h2>
+</td>
+
+<td align="center">
 <strong>Generated QR Ticket</strong><br><br>
 <img src="Generated%20Ticket.png" width="180">
 </td>
@@ -72,14 +81,6 @@ Each ticket contained a unique QR code connected to the verification workflow, e
 <img src="Verification%20Server%20Screen.png" width="180">
 </td>
 
-<td align="center" valign="middle">
-<h2>→</h2>
-</td>
-
-<td align="center">
-<strong>Ticket Template</strong><br><br>
-<img src="Ticket%20Templet.png" width="180">
-</td>
 </tr>
 </table>
 
