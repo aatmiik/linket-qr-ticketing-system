@@ -50,19 +50,26 @@ The system was successfully used to generate **90 personalized QR-enabled event 
 
 Each ticket contained a unique QR code linked to the verification workflow, enabling digital validation at the point of entry.
 
-## Project Showcase
+### Project Showcase
 
-### Ticket Template
+<table>
+<tr>
+<td align="center">
+<strong>Generated QR Ticket</strong><br>
+<img src="Generated%20Ticket.png" width="300">
+</td>
 
-![Ticket Template](Ticket%20Templet.png)
+<td align="center">
+<strong>QR Verification</strong><br>
+<img src="Verification%20Server%20Screen.png" width="300">
+</td>
 
-### Generated QR Ticket
-
-![Generated Ticket](Generated%20Ticket.png)
-
-### QR Verification
-
-![Verification Interface](Verification%20Server%20Screen.png)
+<td align="center">
+<strong>Ticket Template</strong><br>
+<img src="Ticket%20Templet.png" width="300">
+</td>
+</tr>
+</table>
 
 ## Project Contribution
 
